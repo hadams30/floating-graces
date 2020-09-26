@@ -1,0 +1,19 @@
+html, body {
+  padding: 0;
+  background-color: rgb(51, 34, 59);
+}
+
+h1,h2,p{
+  font-family:"Trebuchet MS", Helvetica, sans-serif;
+  color: white;
+  text-align: center;
+}
+
+h1{
+ font-size: 4vw; 
+}
+
+canvas {
+  display: block;
+  margin: 0;
+}
